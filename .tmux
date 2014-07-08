@@ -1,1 +1,0 @@
-/Users/paul/.homesick/repos/paul/home/.tmux
