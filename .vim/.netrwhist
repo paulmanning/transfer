@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/paul/docker/.vagrant/machines/default/virtualbox'
+let g:netrw_dirhist_2='/Users/paul/docker/.vagrant/machines/default'
+let g:netrw_dirhist_3='/Users/paul/docker/.vagrant/machines'
+let g:netrw_dirhist_4='/Users/paul/docker/.vagrant'
+let g:netrw_dirhist_5='/Users/paul/docker'
+let g:netrw_dirhist_6='/Users/paul'
+let g:netrw_dirhist_7='/Users'
+let g:netrw_dirhist_8='/Users/paul/.meteor/tools/latest'
